@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Oonagh! I'm a budding programmer with 4 years experience in python and am currently developing my skills in JavaScript and Java. Outside of programming, I love writing film reviews, knitting and going to live concerts. My BSc was in Physics with Astronomy, so naturally I also love stargazing on a clear night.
 
 <!--
 **oonaghalice/oonaghalice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 ![Oonagh's GitHub stats](https://github-readme-stats.vercel.app/api?username=oonaghalice&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oonaghalice&layout=compact&theme=tokyonight)](https://github.com/oonaghalice/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oonaghalice&theme=tokyonight)](https://git.io/streak-stats)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=oonaghalice)
 
