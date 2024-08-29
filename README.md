@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Oonagh! I'm a budding programmer with 4 years experience in python and with developed skills in JavaScript and Java. Outside of programming, I love writing film reviews, knitting and going to live concerts. My BSc was in Physics with Astronomy, so naturally I also love stargazing on a clear night.
+### Hi there 👋 I'm Oonagh! I'm a programmer with 4 years experience in python, 1.5 years experience in BrightScript Roku development and skills in JavaScript, TypeScript, React, Node JS and Java. Outside of programming, I love writing film reviews, knitting and going to live concerts. My BSc was in Physics with Astronomy, so naturally I also love stargazing on a clear night.
 
 <!--
 **oonaghalice/oonaghalice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
